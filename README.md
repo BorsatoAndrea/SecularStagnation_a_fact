@@ -1,4 +1,4 @@
-# SecularStagnation_a_fact-
+# SecularStagnation_a_fact
 Dataset
 
 This folder provides the dataset to replicate the analysis in the paper "Does the Secular Stagnation Hypothesis Match With Data? Evidence from USA".
